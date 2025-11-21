@@ -1,0 +1,6 @@
+env/
+.env
+__pycache__/
+outputs/*.txt
+outputs/*.json
+*.pdf
